@@ -1,6 +1,6 @@
-### engineering_maths
+# engineering_maths
 
-#Mathematicical Algorithms for :-
+### Mathematicical Algorithms for :-
 
 1. Calculating approxinate Definate Integral.
 2. Approximate roots of a Equation.
